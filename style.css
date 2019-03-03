@@ -1,5 +1,5 @@
 h1 {
-  font-size: 18px;  
+  font-size: 30px;  
 }
 
 form {
@@ -7,4 +7,14 @@ form {
 	width: 180px;
 	height: 130px;
 	text-align: center;
+}
+
+tr {
+	text-align: center;
+}
+
+table {
+	border: 2px solid black;
+	width: 150px;
+	height: 130px;
 }
