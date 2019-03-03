@@ -1,0 +1,10 @@
+h1 {
+  font-size: 18px;  
+}
+
+form {
+	border: 2px solid black;
+	width: 180px;
+	height: 130px;
+	text-align: center;
+}
